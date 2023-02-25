@@ -62,7 +62,7 @@
 				}
 
 .container:hover {
-  background-color: black !important;
+  background: black !important;
 }
 
 				h1 {
